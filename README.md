@@ -1,5 +1,3 @@
-
-# Ashwija-Nayak
 <h1 align="center">Hey there 👋, I'm Ashwija</h1>
 <h3 align="center">I am a passionate and detail-oriented professional who takes pride in delivering clean, efficient, and maintainable code</h3>
 
