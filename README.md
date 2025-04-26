@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moon-12&label=Profile%20views&color=0e75b6&style=flat" alt="moon-12" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ashwija-nayak.web.app/](https://www.ashwija.com/)
+- 👨‍💻 All of my projects are available at [https://www.ashwija.com/](https://www.ashwija.com/)
 
 - 📫 How to reach me **ashwija.nayak2@gmail.com**
 
